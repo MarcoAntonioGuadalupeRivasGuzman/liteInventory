@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Lite Iventory
+
+Una aplicacion de inventario simple pero funcional para mantener todo en orden
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
