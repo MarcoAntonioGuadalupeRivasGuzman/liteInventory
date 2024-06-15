@@ -7,11 +7,11 @@ export function Login() {
         <>
             <Panel>
                 <DivRow>
-                    <img src="/Assets/montain.jpg" />
+                    <img className="img-login" src="/Assets/montain.jpg" />
                     <DivCanva>
                         <DivCol>
-                            <h1>Bienvenido a lite inventory</h1>
-                            <p>Inicia sesion</p>
+                            <h1 className="alter-subtitle">Bienvenido a lite inventory</h1>
+                            <p className="main-content">Inicia sesion</p>
                             <TextField label={"Usuario"} />
                             <TextField label={"Password"} isPass={true} />
                             <Boton color={'principal'}>Login</Boton>
